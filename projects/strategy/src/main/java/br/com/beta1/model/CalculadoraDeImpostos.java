@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class CalculadoraDeImpostos {
 
-    //problema
+    //problema que foi refatorado
         /*if( "ICMS".equals(imposto) ) {
            double icms = new ICMS().calculaICMS(orcamento);
         } else if( "ISS".equals(imposto) ) {
